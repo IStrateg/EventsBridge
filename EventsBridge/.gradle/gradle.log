@@ -1,0 +1,23 @@
+****************************
+ Powered By MCP:             
+ http://modcoderpack.com/    
+ Searge, ProfMobius, Fesh0r, 
+ R4wk, ZeuX, IngisKahn, bspkrs
+ MCP Data version : unknown
+****************************
+:compileApiJava UP-TO-DATE
+:processApiResources UP-TO-DATE
+:apiClasses UP-TO-DATE
+:sourceMainJava
+:compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
+Note: C:\Users\Alex\Desktop\Terasology-develop\EventHelper-1.6\build\sources\java\com\gamerforea\eventhelper\util\EventUtils.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+1 warning
+
+:processResources UP-TO-DATE
+:classes
+:jar
+
+BUILD SUCCESSFUL
+
+Total time: 6.974 secs
